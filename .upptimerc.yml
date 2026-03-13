@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/Mimemi.png
   name: Services Status
-  introTitle: "**MorFans Services** uptime monitor and status page, powered by GitHub."
+  introTitle: "**MorFans Services** uptime monitor"
   introMessage: Real-time status for MorFans public services, monitoring health and updating service incidents and resolutions.
   navbar:
     - title: Status
