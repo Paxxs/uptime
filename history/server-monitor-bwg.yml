@@ -1,7 +1,7 @@
 url: $SERVER_MONITOR
-status: up
-code: 200
-responseTime: 5336
-lastUpdated: 2026-08-14T23:24:41.998Z
+status: down
+code: 522
+responseTime: 19575
+lastUpdated: 2026-08-15T09:49:38.048Z
 startTime: 2026-03-17T16:17:11.590Z
 generator: Upptime <https://github.com/upptime/upptime>
