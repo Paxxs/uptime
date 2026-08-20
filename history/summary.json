@@ -4,21 +4,21 @@
     "url": "https://www.morfans.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.morfans.cn.ico",
     "slug": "blog-gz99",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.97%",
-    "time": 3811,
-    "timeDay": 17401,
-    "timeWeek": 8766,
-    "timeMonth": 5177,
-    "timeYear": 3811,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.96%",
+    "time": 3808,
+    "timeDay": 12683,
+    "timeWeek": 8264,
+    "timeMonth": 5125,
+    "timeYear": 3808,
     "dailyMinutesDown": {
       "2026-08-01": 52,
       "2026-08-16": 21,
-      "2026-08-20": 0
+      "2026-08-20": 16
     }
   },
   {
