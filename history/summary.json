@@ -5,21 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.morfans.cn.ico",
     "slug": "blog-gz99",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.89%",
+    "uptimeDay": "86.41%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.89%",
     "time": 3745,
-    "timeDay": 6157,
-    "timeWeek": 3372,
-    "timeMonth": 4662,
+    "timeDay": 0,
+    "timeWeek": 3439,
+    "timeMonth": 4730,
     "timeYear": 3745,
     "dailyMinutesDown": {
       "2026-08-01": 52,
       "2026-08-16": 21,
       "2026-08-20": 16,
-      "2026-09-07": 0
+      "2026-09-07": 196
     }
   },
   {
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 1731,
-    "timeWeek": 983,
-    "timeMonth": 1045,
-    "timeYear": 1034,
+    "time": 1033,
+    "timeDay": 968,
+    "timeWeek": 997,
+    "timeMonth": 1052,
+    "timeYear": 1033,
     "dailyMinutesDown": {}
   },
   {
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1048,
-    "timeDay": 1389,
-    "timeWeek": 916,
-    "timeMonth": 912,
-    "timeYear": 1048,
+    "time": 1047,
+    "timeDay": 924,
+    "timeWeek": 941,
+    "timeMonth": 920,
+    "timeYear": 1047,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 1177,
-    "timeWeek": 443,
-    "timeMonth": 343,
-    "timeYear": 388,
+    "time": 387,
+    "timeDay": 158,
+    "timeWeek": 390,
+    "timeMonth": 331,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 1032,
-    "timeWeek": 604,
-    "timeMonth": 1131,
-    "timeYear": 607,
+    "time": 606,
+    "timeDay": 456,
+    "timeWeek": 612,
+    "timeMonth": 1135,
+    "timeYear": 606,
     "dailyMinutesDown": {}
   }
 ]
