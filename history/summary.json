@@ -4,9 +4,9 @@
     "url": "https://www.morfans.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.morfans.cn.ico",
     "slug": "blog-gz99",
-    "status": "up",
+    "status": "down",
     "uptime": "95.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.91%",
     "uptimeYear": "95.16%",
@@ -32,7 +32,8 @@
       "2026-09-07": 1399,
       "2026-10-29": 705,
       "2026-10-28": 904,
-      "2026-11-09": 623
+      "2026-11-09": 623,
+      "2026-11-20": 0
     }
   },
   {
