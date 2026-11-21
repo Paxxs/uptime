@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.morfans.cn.ico",
     "slug": "blog-gz99",
     "status": "down",
-    "uptime": "95.16%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "95.16%",
+    "uptime": "94.82%",
+    "uptimeDay": "10.65%",
+    "uptimeWeek": "87.24%",
+    "uptimeMonth": "91.97%",
+    "uptimeYear": "94.82%",
     "time": 3749,
-    "timeDay": 3214,
-    "timeWeek": 3171,
-    "timeMonth": 3864,
+    "timeDay": 0,
+    "timeWeek": 3125,
+    "timeMonth": 3873,
     "timeYear": 3749,
     "dailyMinutesDown": {
       "2026-08-01": 52,
@@ -33,7 +33,8 @@
       "2026-10-29": 705,
       "2026-10-28": 904,
       "2026-11-09": 623,
-      "2026-11-20": 0
+      "2026-11-21": 393,
+      "2026-11-20": 894
     }
   },
   {
@@ -48,9 +49,9 @@
     "uptimeMonth": "96.33%",
     "uptimeYear": "99.56%",
     "time": 1013,
-    "timeDay": 1311,
-    "timeWeek": 1021,
-    "timeMonth": 1029,
+    "timeDay": 925,
+    "timeWeek": 1038,
+    "timeMonth": 1021,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2026-10-29": 705,
@@ -68,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.33%",
     "uptimeYear": "99.56%",
-    "time": 1027,
-    "timeDay": 1238,
-    "timeWeek": 902,
-    "timeMonth": 964,
-    "timeYear": 1027,
+    "time": 1026,
+    "timeDay": 852,
+    "timeWeek": 924,
+    "timeMonth": 963,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2026-10-29": 705,
       "2026-10-28": 903
@@ -90,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 474,
-    "timeWeek": 471,
-    "timeMonth": 387,
+    "timeDay": 361,
+    "timeWeek": 476,
+    "timeMonth": 396,
     "timeYear": 389,
     "dailyMinutesDown": {}
   },
@@ -107,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 834,
-    "timeWeek": 783,
-    "timeMonth": 820,
-    "timeYear": 648,
+    "time": 647,
+    "timeDay": 347,
+    "timeWeek": 734,
+    "timeMonth": 808,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   }
 ]
