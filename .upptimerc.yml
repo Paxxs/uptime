@@ -6,6 +6,15 @@ sites:
   - name: Blog (gz99)
     url: https://www.morfans.cn
     type: globalping
+  - name: TunHub Services (gz99)
+    url: $TUNHUB_SITE
+    headers:
+      - "Authorization: Basic $TUNHUB_TEST_TOEKN"
+      - "Content-Type: text/plain"
+    expectedStatusCodes:
+      - 200
+      - 201
+    __dangerous__insecure: true
   - name: BitKey (gz99)
     url: $BITKEY_SITE
   - name: TXCloud (gz99)
