@@ -5,6 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: Blog (gz99)
     url: https://www.morfans.cn
+    type: globalping
   - name: BitKey (gz99)
     url: $BITKEY_SITE
   - name: TXCloud (gz99)
